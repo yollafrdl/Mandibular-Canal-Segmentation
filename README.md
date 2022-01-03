@@ -1,4 +1,4 @@
-# Canal Mandibula Segmentation
+# Mandibular Canal Segmentation
 Yolla's Thesis. The python library used in this research are numpy, PIL, opencv, scikit-learn, pydicom, matplotlib, kerasnd, and tensorflow. You can find the paper publication in here : https://inass.org/wp-content/uploads/2021/10/2021123120.pdf
 
 ## Method
